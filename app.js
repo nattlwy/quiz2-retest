@@ -5,7 +5,7 @@ const app = express();
 const port = 7000;
 
 
-const mongoURI = 'mongodb+srv:// tempuser:123@cluster0.f9d6o.gcp.mongodb.net/Exam';
+const mongoURI = 'mongodb+srv://tempuser:123@cluster0.f9d6o.gcp.mongodb.net/Exam';
 
 
 mongoose
